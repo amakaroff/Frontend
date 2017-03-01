@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    height: 100%;
+    background-color: lightblue;
+    margin: auto;
+}
+
+body {
+    width: 1000px;
+    margin: auto;
+}
+
+.top {
+    margin-top: 50px;
+    width: 1000px;
+    height: 70px;
+}
+
+.button {
+    float: left;
+    font-size: 40px;
+    width: 200px;
+    height: 70px;
+    margin-bottom: 15px;
+}
+
+.menu {
+    float: right;
+    width: 200px;
+}
+
+.element {
+    padding: 6px;
+    width: 200px;
+    border: solid cornflowerblue;
+    border-width: 0 0 1px 0;
+}
+
+.bottom {
+
+}
+
+.bottom-left {
+    float: left;
+}
+
+.bottom-right {
+    float: right;
+}
